@@ -1,0 +1,29 @@
+{
+  "manifest_version": 3,
+  "name": "Cute Bunny (FHD)",
+  "version": "1.0",
+  "description": "A simple Chrome theme featuring a cute bunny background.",
+  "theme": {
+    "images": {
+      "theme_ntp_background": "theme_ntp_background.jpg"
+    },
+    "colors": {
+      "frame": [71, 71, 66],
+      "ntp_background": [29, 29, 25],
+      "tab_text": [29, 29, 25],
+      "tab_background_text": [211, 215, 211],
+      "bookmark_text": [29, 29, 25],
+      "ntp_text": [211, 215, 211],
+      "ntp_link": [6, 55, 116],
+      "ntp_header": [150, 150, 150],
+      "toolbar": [211, 215, 211],
+      "toolbar_text": [29, 29, 25],
+      "button_background": [0, 0, 0, 0],
+      "toolbar_button_icon": [29, 29, 25]
+    },
+    "properties": {
+      "ntp_background_alignment": "center",
+      "ntp_background_repeat": "no-repeat"
+    }
+  }
+}

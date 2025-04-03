@@ -1,0 +1,34 @@
+{
+  "manifest_version": 3,
+  "name": "Ocean Pebbles",
+  "version": "1.0",
+  "description": "A serene Chrome theme inspired by the tranquil blend of deep blue ocean waves and smooth dark pebbles on the shore.",
+  "theme": {
+    "images": {
+      "theme_ntp_background": "theme_ntp_background.jpg"
+    },
+    "colors": {
+      "frame": [42, 82, 112],
+      "frame_inactive": [65, 95, 120],
+      "ntp_background": [35, 75, 105],
+      "tab_background_text": [160, 190, 210],
+      "tab_text": [235, 245, 255],
+      "bookmark_text": [220, 235, 255],
+      "ntp_text": [220, 235, 255],
+      "ntp_link": [140, 210, 255],
+      "ntp_header": [150, 180, 210],
+      "toolbar": [20, 40, 68],
+      "toolbar_text": [210, 230, 255],
+      "toolbar_button_icon": [180, 220, 255],
+      "omnibox_text": [230, 240, 255],
+      "omnibox_background": [40, 70, 100]
+    },
+    "tints": {
+      "buttons": [0.8, 0.3, 0.5]
+    },
+    "properties": {
+      "ntp_background_alignment": "center",
+      "ntp_background_repeat": "no-repeat"
+    }
+  }
+}

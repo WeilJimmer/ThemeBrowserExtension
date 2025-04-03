@@ -1,0 +1,34 @@
+{
+  "manifest_version": 3,
+  "name": "Starry Night",
+  "version": "1.0",
+  "description": "A mesmerizing Chrome theme that captures the tranquility of a night sky filled with stars above silhouetted mountains.",
+  "theme": {
+    "images": {
+      "theme_ntp_background": "theme_ntp_background.jpg"
+    },
+    "colors": {
+      "frame": [10, 15, 35],
+      "frame_inactive": [20, 22, 40],
+      "ntp_background": [8, 10, 25],
+      "tab_background_text": [100, 110, 160],
+      "tab_text": [180, 190, 245],
+      "bookmark_text": [160, 170, 230],
+      "ntp_text": [180, 190, 245],
+      "ntp_link": [120, 140, 235],
+      "ntp_header": [40, 50, 100],
+      "toolbar": [15, 20, 45],
+      "toolbar_text": [180, 200, 255],
+      "toolbar_button_icon": [140, 160, 255],
+      "omnibox_text": [200, 210, 255],
+      "omnibox_background": [25, 30, 60]
+    },
+    "tints": {
+      "buttons": [0.7, 0.3, 0.8]
+    },
+    "properties": {
+      "ntp_background_alignment": "center",
+      "ntp_background_repeat": "no-repeat"
+    }
+  }
+}

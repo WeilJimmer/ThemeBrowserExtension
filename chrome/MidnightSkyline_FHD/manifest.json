@@ -1,0 +1,33 @@
+{
+  "manifest_version": 3,
+  "name": "Midnight Skyline",
+  "version": "1.0",
+  "description": "A sleek Chrome theme inspired by the mesmerizing blue glow of a metropolitan city at night.",
+  "theme": {
+    "images": {
+      "theme_ntp_background": "theme_ntp_background.jpg"
+    },
+    "colors": {
+      "frame": [15, 25, 50],
+      "ntp_background": [15, 25, 50],
+      "tab_text": [220, 240, 255],
+      "tab_background_text": [140, 170, 210],
+      "bookmark_text": [180, 200, 230],
+      "ntp_text": [200, 220, 255],
+      "ntp_link": [120, 180, 255],
+      "ntp_header": [80, 120, 180],
+      "toolbar": [10, 20, 45],
+      "toolbar_text": [180, 210, 255],
+      "toolbar_button_icon": [130, 190, 255],
+      "omnibox_text": [220, 230, 255],
+      "omnibox_background": [30, 50, 90]
+    },
+    "tints": {
+      "buttons": [0.7, 0.5, 0.8]
+    },
+    "properties": {
+      "ntp_background_alignment": "center",
+      "ntp_background_repeat": "no-repeat"
+    }
+  }
+}

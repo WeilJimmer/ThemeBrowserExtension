@@ -15,10 +15,19 @@ Click "Load unpacked" and select the theme folder
 Support for Firefox and other browsers coming soon!
 
 ## Available Themes
-Bunny Theme - A charming theme featuring rabbit imagery in beautiful natural settings.
+Filename_4K: Optimized for 4K displays (3840×2160 and higher)
+Filename_FHD: Optimized for Full HD displays (1920×1080)
 
-Bunny1_4K: Optimized for 4K displays (3840×2160 and higher)
-Bunny1_FHD: Optimized for Full HD displays (1920×1080)
+Bunny - A charming theme featuring rabbit imagery in beautiful natural settings.
+Midnight Skyline - A sleek Chrome theme inspired by the mesmerizing blue glow of a metropolitan city at night.
+Mountain Vista - A serene Chrome theme capturing the majesty of azure skies, fluffy clouds, distant mountains, and verdant farmlands.
+Mustard Meadows - A vibrant Chrome theme inspired by the sunny yellow mustard flowers blossoming among lush green fields.
+Ocean Pebbles - A serene Chrome theme inspired by the tranquil blend of deep blue ocean waves and smooth dark pebbles on the shore.
+Rainbow Lorikeet - A vibrant Chrome theme inspired by the dazzling colors of the Rainbow Lorikeet, a spectacular nectar-feeding parrot native to Australia.
+Red Panda - A warm, charming Chrome theme inspired by the adorable red panda with its rusty fur, white accents, and gentle expression.
+Rice Paddy Reflections - A refreshing Chrome theme capturing the serenity of rice paddies reflecting a vast blue sky with fluffy clouds and distant mountains.
+Sakura Dreams - A beautiful Chrome theme inspired by the vibrant pink cherry blossoms of spring.
+Starry Night - A mesmerizing Chrome theme that captures the tranquility of a night sky filled with stars above silhouetted mountains.
 
 ## Upcoming Themes
 More themes with various subjects will be added in the future. Stay tuned!

@@ -1,0 +1,34 @@
+{
+  "manifest_version": 3,
+  "name": "Mountain Vista",
+  "version": "1.0",
+  "description": "A serene Chrome theme capturing the majesty of azure skies, fluffy clouds, distant mountains, and verdant farmlands.",
+  "theme": {
+    "images": {
+      "theme_ntp_background": "theme_ntp_background.jpg"
+    },
+    "colors": {
+      "frame": [30, 100, 200],
+      "frame_inactive": [80, 130, 180],
+      "ntp_background": [50, 120, 220],
+      "tab_background_text": [180, 210, 240],
+      "tab_text": [0, 94, 255],
+      "bookmark_text": [20, 40, 80],
+      "ntp_text": [20, 40, 80],
+      "ntp_link": [0, 60, 150],
+      "ntp_header": [40, 80, 170],
+      "toolbar": [210, 230, 255],
+      "toolbar_text": [20, 40, 80],
+      "toolbar_button_icon": [30, 80, 170],
+      "omnibox_text": [20, 40, 80],
+      "omnibox_background": [240, 245, 255]
+    },
+    "tints": {
+      "buttons": [0.6, 0.5, 0.8]
+    },
+    "properties": {
+      "ntp_background_alignment": "center",
+      "ntp_background_repeat": "no-repeat"
+    }
+  }
+}

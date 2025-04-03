@@ -1,0 +1,35 @@
+{
+  "manifest_version": 3,
+  "name": "Sakura Dreams",
+  "version": "1.0",
+  "description": "A beautiful Chrome theme inspired by the vibrant pink cherry blossoms of spring.",
+  "theme": {
+    "images": {
+      "theme_ntp_background": "theme_ntp_background.jpg"
+    },
+    "colors": {
+      "frame": [210, 51, 117],
+      "frame_inactive": [183, 127, 140],
+      "ntp_background": [222, 136, 169],
+      "tab_background_text": [255, 173, 179],
+      "tab_text": [255, 255, 254],
+      "bookmark_text": [77, 40, 46],
+      "ntp_text": [77, 40, 46],
+      "ntp_link": [120, 40, 55],
+      "ntp_header": [150, 80, 100],
+      "toolbar": [214, 111, 150],
+      "toolbar_text": [255, 220, 230],
+      "button_background": [255, 0, 80],
+      "toolbar_button_icon": [255, 200, 210],
+      "omnibox_text": [77, 40, 46],
+      "omnibox_background": [255, 235, 238]
+    },
+    "tints": {
+      "buttons": [0.9, 0.4, 0.6]
+    },
+    "properties": {
+      "ntp_background_alignment": "center",
+      "ntp_background_repeat": "no-repeat"
+    }
+  }
+}

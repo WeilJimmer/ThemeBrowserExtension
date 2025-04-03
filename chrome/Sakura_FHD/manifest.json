@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Sakura Dreams",
   "version": "1.0",
-  "description": "A beautiful Chrome theme inspired by the vibrant pink cherry blossoms of spring.",
+  "description": "A beautiful theme inspired by the vibrant pink cherry blossoms of spring.",
   "theme": {
     "images": {
       "theme_ntp_background": "theme_ntp_background.jpg"

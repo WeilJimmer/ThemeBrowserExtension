@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Mustard Meadows",
   "version": "1.0",
-  "description": "A vibrant Chrome theme inspired by the sunny yellow mustard flowers blossoming among lush green fields.",
+  "description": "A vibrant theme inspired by the sunny yellow mustard flowers blossoming among lush green fields.",
   "theme": {
     "images": {
       "theme_ntp_background": "theme_ntp_background.jpg"

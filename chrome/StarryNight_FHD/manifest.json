@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Starry Night",
   "version": "1.0",
-  "description": "A mesmerizing Chrome theme that captures the tranquility of a night sky filled with stars above silhouetted mountains.",
+  "description": "A mesmerizing theme that captures the tranquility of a night sky filled with stars above silhouetted mountains.",
   "theme": {
     "images": {
       "theme_ntp_background": "theme_ntp_background.jpg"

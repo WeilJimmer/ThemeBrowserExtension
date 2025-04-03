@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Midnight Skyline",
   "version": "1.0",
-  "description": "A sleek Chrome theme inspired by the mesmerizing blue glow of a metropolitan city at night.",
+  "description": "A sleek theme inspired by the mesmerizing blue glow of a metropolitan city at night.",
   "theme": {
     "images": {
       "theme_ntp_background": "theme_ntp_background.jpg"

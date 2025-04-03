@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Rainbow Lorikeet",
   "version": "1.0",
-  "description": "A vibrant Chrome theme inspired by the dazzling colors of the Rainbow Lorikeet, a spectacular nectar-feeding parrot native to Australia.",
+  "description": "A vibrant theme inspired by the dazzling colors of the Rainbow Lorikeet, a spectacular nectar-feeding parrot.",
   "theme": {
     "images": {
       "theme_ntp_background": "theme_ntp_background.jpg"

@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Rice Paddy Reflections",
   "version": "1.0",
-  "description": "A refreshing Chrome theme capturing the serenity of rice paddies reflecting a vast blue sky with fluffy clouds and distant mountains.",
+  "description": "A refreshing theme capturing the serenity of rice paddies reflecting a vast blue sky with fluffy clouds & distant mountains.",
   "theme": {
     "images": {
       "theme_ntp_background": "theme_ntp_background.jpg"

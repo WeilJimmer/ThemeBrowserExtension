@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Mountain Vista",
   "version": "1.0",
-  "description": "A serene Chrome theme capturing the majesty of azure skies, fluffy clouds, distant mountains, and verdant farmlands.",
+  "description": "A serene theme capturing the majesty of azure skies, fluffy clouds, distant mountains, and verdant farmlands.",
   "theme": {
     "images": {
       "theme_ntp_background": "theme_ntp_background.jpg"

@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Cute Bunny (4K)",
   "version": "1.0",
-  "description": "A simple Chrome theme featuring a cute bunny background.",
+  "description": "A simple theme featuring a cute bunny background.",
   "theme": {
     "images": {
       "theme_ntp_background": "theme_ntp_background.jpg"

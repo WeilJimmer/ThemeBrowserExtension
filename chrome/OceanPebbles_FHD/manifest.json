@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Ocean Pebbles",
   "version": "1.0",
-  "description": "A serene Chrome theme inspired by the tranquil blend of deep blue ocean waves and smooth dark pebbles on the shore.",
+  "description": "A serene theme inspired by the tranquil blend of deep blue ocean waves and smooth dark pebbles on the shore.",
   "theme": {
     "images": {
       "theme_ntp_background": "theme_ntp_background.jpg"

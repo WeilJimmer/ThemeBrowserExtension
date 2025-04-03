@@ -3,21 +3,7 @@ A collection of beautiful browser themes featuring various subjects, designed to
 
 # Installation
 
-## Chrome / Chromium-based browsers
-[Chrome Web Store Link (soon)]
-
-## Manual installation:
-1. Download the desired theme zip file from the collection below
-2. Extract the zip file to a local folder
-3. Open Chrome and navigate to chrome://extensions/
-4. Enable "Developer mode" (toggle in the top-right)
-5. Click "Load unpacked" and select the extracted theme folder
-
-## Other browsers
-Support for Firefox and other browsers coming soon!
-
 ## Available Themes
-
 Each theme is available in Full HD resolution (1920×1080), with select themes also available in 4K resolution (3840×2160).
 
 | Theme | Preview | Description |
@@ -32,6 +18,33 @@ Each theme is available in Full HD resolution (1920×1080), with select themes a
 | Rice Paddy Reflections | ![Rice Paddy Reflections](preview/chrome/RicePaddyReflections_FHD/p.jpg) | A refreshing Chrome theme capturing the serenity of rice paddies reflecting a vast blue sky with fluffy clouds and distant mountains. |
 | Sakura Dreams | ![Sakura Dreams](preview/chrome/Sakura_FHD/p.jpg) | A beautiful Chrome theme inspired by the vibrant pink cherry blossoms of spring. |
 | Starry Night | ![Starry Night](preview/chrome/StarryNight_FHD/p.jpg) | A mesmerizing Chrome theme that captures the tranquility of a night sky filled with stars above silhouetted mountains. |
+
+## Chrome / Chromium-based browsers
+
+| Theme | Download Links | Downloads |
+|-------|----------------|-----------|
+| Bunny | [![Chrome Web Store Version](https://img.shields.io/chrome-web-store/v/hmdhcloilglflecgofdkomjbcdnnappp)](https://chromewebstore.google.com/detail/hmdhcloilglflecgofdkomjbcdnnappp) | ![Chrome Web Store Users](https://img.shields.io/chrome-web-store/users/hmdhcloilglflecgofdkomjbcdnnappp) |
+| Midnight Skyline | [![Chrome Web Store Version](https://img.shields.io/chrome-web-store/v/ijjdnodjknknjhbjdffkenippiocmalh)](https://chromewebstore.google.com/detail/ijjdnodjknknjhbjdffkenippiocmalh) | ![Chrome Web Store Users](https://img.shields.io/chrome-web-store/users/ijjdnodjknknjhbjdffkenippiocmalh) |
+| Mountain Vista | [![Chrome Web Store Version](https://img.shields.io/chrome-web-store/v/kifhkagjglcfggmaccpfobmlakjpgola)](https://chromewebstore.google.com/detail/kifhkagjglcfggmaccpfobmlakjpgola) | ![Chrome Web Store Users](https://img.shields.io/chrome-web-store/users/kifhkagjglcfggmaccpfobmlakjpgola) |
+| Mustard Meadows | [![Chrome Web Store Version](https://img.shields.io/chrome-web-store/v/geoblglhlnoophhghahidoilnabhpemg)](https://chromewebstore.google.com/detail/geoblglhlnoophhghahidoilnabhpemg) | ![Chrome Web Store Users](https://img.shields.io/chrome-web-store/users/geoblglhlnoophhghahidoilnabhpemg) |
+| Ocean Pebbles | [![Chrome Web Store Version](https://img.shields.io/chrome-web-store/v/blnlfeabinelkfeilplpeafgpomfhchh)](https://chromewebstore.google.com/detail/blnlfeabinelkfeilplpeafgpomfhchh) | ![Chrome Web Store Users](https://img.shields.io/chrome-web-store/users/blnlfeabinelkfeilplpeafgpomfhchh) |
+| Rainbow Lorikeet | [![Chrome Web Store Version](https://img.shields.io/chrome-web-store/v/apmgcaggbedbmkcibnjjindnjmnpkenm)](https://chromewebstore.google.com/detail/apmgcaggbedbmkcibnjjindnjmnpkenm) | ![Chrome Web Store Users](https://img.shields.io/chrome-web-store/users/apmgcaggbedbmkcibnjjindnjmnpkenm) |
+| Red Panda | [![Chrome Web Store Version](https://img.shields.io/chrome-web-store/v/kkikfjmificfifehjmgkjhjkeonlbfhm)](https://chromewebstore.google.com/detail/kkikfjmificfifehjmgkjhjkeonlbfhm) | ![Chrome Web Store Users](https://img.shields.io/chrome-web-store/users/kkikfjmificfifehjmgkjhjkeonlbfhm) |
+| Rice Paddy Reflections | [![Chrome Web Store Version](https://img.shields.io/chrome-web-store/v/egbcnmobmionojdaglgmndgoikddmklb)](https://chromewebstore.google.com/detail/egbcnmobmionojdaglgmndgoikddmklb) | ![Chrome Web Store Users](https://img.shields.io/chrome-web-store/users/egbcnmobmionojdaglgmndgoikddmklb) |
+| Sakura Dreams | [![Chrome Web Store Version](https://img.shields.io/chrome-web-store/v/encinmjfalnfjfmaocpoeoaocehmacob)](https://chromewebstore.google.com/detail/encinmjfalnfjfmaocpoeoaocehmacob) | ![Chrome Web Store Users](https://img.shields.io/chrome-web-store/users/encinmjfalnfjfmaocpoeoaocehmacob) |
+| Starry Night | [![Chrome Web Store Version](https://img.shields.io/chrome-web-store/v/phklfcngmalfgamnkmaohkoojepabioj)](https://chromewebstore.google.com/detail/phklfcngmalfgamnkmaohkoojepabioj) | ![Chrome Web Store Users](https://img.shields.io/chrome-web-store/users/phklfcngmalfgamnkmaohkoojepabioj) |
+
+or [Github Release](https://github.com/WeilJimmer/ThemeBrowserExtension/releases)
+
+## Manual installation:
+1. Download the desired theme zip file from the [Github Release](https://github.com/WeilJimmer/ThemeBrowserExtension/releases)
+2. Extract the zip file to a local folder
+3. Open Chrome and navigate to chrome://extensions/
+4. Enable "Developer mode" (toggle in the top-right)
+5. Click "Load unpacked" and select the extracted theme folder
+
+## Other browsers
+Support for Firefox and other browsers coming soon!
 
 ## Upcoming Themes
 More themes with various subjects will be added in the future. Stay tuned!
